@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/blahb/PycharmProjects/SoME3/media/videos/main/1080p60/partial_movie_files/Test/2373140185_2279463365_223132457.mp4'
+file 'file:C:/Users/blahb/PycharmProjects/SoME3/media/videos/main/1080p60/partial_movie_files/Test/3308069244_1416012614_1903889429.mp4'
+file 'file:C:/Users/blahb/PycharmProjects/SoME3/media/videos/main/1080p60/partial_movie_files/Test/3308069244_2979593607_1156618562.mp4'
+file 'file:C:/Users/blahb/PycharmProjects/SoME3/media/videos/main/1080p60/partial_movie_files/Test/3308069244_1416012614_1585915700.mp4'
+file 'file:C:/Users/blahb/PycharmProjects/SoME3/media/videos/main/1080p60/partial_movie_files/Test/3308069244_2156259463_175592568.mp4'
+file 'file:C:/Users/blahb/PycharmProjects/SoME3/media/videos/main/1080p60/partial_movie_files/Test/3308069244_1416012614_778566944.mp4'
